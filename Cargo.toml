@@ -1,0 +1,6 @@
+[package]
+name = "telegram-export-to-csv"
+version = "0.1.0"
+authors = ["Rutger Rauws <rutgerrauws@gmail.com>"]
+
+[dependencies]
