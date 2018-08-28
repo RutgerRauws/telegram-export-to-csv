@@ -4,3 +4,5 @@ version = "0.1.0"
 authors = ["Rutger Rauws <rutgerrauws@gmail.com>"]
 
 [dependencies]
+scraper = "0.7.0"
+
